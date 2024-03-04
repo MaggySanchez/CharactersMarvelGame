@@ -1,0 +1,20 @@
+{
+    "administrators": [
+        {
+            "id": "a6fd7085-526d-4c2d-8997-c5963f8a215f",
+            "fullName": "Magali Sanchez",
+            "userName": "MaggySanchez",
+            "Password": "1234"
+        }
+    ],
+    "players": [
+        {
+            "id": "91fbf2c6-4bbe-4da7-9812-3e409a7dbd94",
+            "fullName": "Alan Sanchez",
+            "userName": "AlanSanchez",
+            "password":"3598",
+            "score": 0,
+            "rank": 1
+        }
+    ]
+}

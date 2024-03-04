@@ -1,0 +1,20 @@
+{
+  "name": "desafio_final_ts_leonardo_bana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "ts-node ./src/models/classes/player.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jsonfile": "^6.1.0"
+  }
+}
